@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="screenshots/homescreen.gif">
+  <img src="screenshots/example.gif">
 </p>
 
 
@@ -45,10 +45,15 @@ For more information, please refer to [this link](https://air.imag.fr/index.php/
 ## **Screenshots**
 
 Here is the **conversation scheme**. It represents all the interactions the bot is able to have and all the paths he can follow depending on the answers of the user. Green boxes refer to written answers (for example the name of the user) and red words correspond to answers already written but that must be chosen by the user by simply clicking on it:
-
 <p align="center">
   <img src="doc/conversation_scheme.jpg">
 </p>
+
+This is how a conversation with the bot looks like in Messenger:
+<p align="center">
+  <img src="screenshots/chatbot.png">
+</p>
+
 
 ## **License**
 
